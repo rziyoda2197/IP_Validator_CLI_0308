@@ -1,1 +1,10 @@
-# IP_Validator_CLI_0308
+# 🌐 IP Validator CLI
+
+CLI tool to validate IPv4 addresses.
+
+## Features
+- Checks IPv4 format
+- Validates number ranges
+
+## Run
+python main.py
